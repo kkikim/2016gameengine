@@ -1,0 +1,460 @@
+material Material#54_OgreMax
+{
+	technique Map#37
+	{
+		pass Map#38
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#39
+			{
+				texture Room.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#56_OgreMax
+{
+	technique Map#64
+	{
+		pass Map#65
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#66
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#57_OgreMax
+{
+	technique Map#67
+	{
+		pass Map#68
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#69
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#58_OgreMax
+{
+	technique Map#70
+	{
+		pass Map#71
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#72
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#59_OgreMax
+{
+	technique Map#94
+	{
+		pass Map#95
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#96
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#60_OgreMax
+{
+	technique Map#88
+	{
+		pass Map#89
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#90
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#61_OgreMax
+{
+	technique Map#79
+	{
+		pass Map#80
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#81
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#62_OgreMax
+{
+	technique Map#76
+	{
+		pass Map#77
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#78
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#63_OgreMax
+{
+	technique Map#85
+	{
+		pass Map#86
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#87
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#64_OgreMax
+{
+	technique Map#73
+	{
+		pass Map#74
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#75
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#65_OgreMax
+{
+	technique Map#97
+	{
+		pass Map#98
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#99
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#66_OgreMax
+{
+	technique Map#91
+	{
+		pass Map#92
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#93
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#67_OgreMax
+{
+	technique Map#82
+	{
+		pass Map#83
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#84
+			{
+				texture brick.png
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#68_OgreMax
+{
+	technique Map#40
+	{
+		pass Map#41
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#42
+			{
+				texture LightingRing.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#69_OgreMax
+{
+	technique Map#46
+	{
+		pass Map#47
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#48
+			{
+				texture LightingRing.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#70_OgreMax
+{
+	technique Map#43
+	{
+		pass Map#44
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#45
+			{
+				texture LightingRing.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#71_OgreMax
+{
+	technique Map#49
+	{
+		pass Map#50
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#51
+			{
+				texture LightingRing.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#72_OgreMax
+{
+	technique Map#52
+	{
+		pass Map#53
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#54
+			{
+				texture one.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#74_OgreMax
+{
+	technique Map#55
+	{
+		pass Map#56
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#57
+			{
+				texture two.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#75_OgreMax
+{
+	technique Map#58
+	{
+		pass Map#59
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#60
+			{
+				texture three.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}
+
+
+material Material#76_OgreMax
+{
+	technique Map#61
+	{
+		pass Map#62
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit Map#63
+			{
+				texture four.jpg
+				filtering linear linear linear
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,30 @@
+각 문앞에는 보이지 않는 오브젝트 하나가 존재, 그 오브젝트와 충돌하면 문이 열림,
+
+example
+
+투명한 오브젝트가 캐릭터와 중첩되있을때,
+
+
+
+doorx;
+if(autodoor open state= true)
+	doorx +=1;
+	if (doorx=10)
+		autodoor open state = stop;
+
+else
+	doorx-=1;	
+
+이런식의 코드 구성,
+
+문을 통과한이후에는
+
+charpositioin 값을
+
+목표 방의 중앙으로 강제변환,
+
+
+
+
+
+방을 나간이후 문은 다시 닫힌다.

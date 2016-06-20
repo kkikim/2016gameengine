@@ -1,0 +1,84 @@
+material HOWTOPLAY
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture howtoplay.png
+			}
+		}
+	}
+}
+
+material DEATHROOM
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture deathroomtexture.png
+			}
+		}
+	}
+}
+
+material QUIZ1
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture act.png
+			}
+		}
+	}
+}
+
+material QUIZ2
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture quiz1.png
+			}
+		}
+	}
+}
+
+material QUIZ3
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture quiz2.png
+			}
+		}
+	}
+}
+
+material FINAL
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture final.png
+			}
+		}
+	}
+}
+

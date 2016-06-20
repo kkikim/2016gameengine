@@ -1,0 +1,14 @@
+material GAME_OVER
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture gameover.png
+			}
+		}
+	}
+}
+

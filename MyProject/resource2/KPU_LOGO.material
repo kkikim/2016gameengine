@@ -1,0 +1,28 @@
+material KPU_LOGO
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture TITLE.png
+			}
+		}
+	}
+}
+
+material KPU_LOGO2
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture TITLE.png
+			}
+		}
+	}
+}
+

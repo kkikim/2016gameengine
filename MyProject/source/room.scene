@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="1" unitType="meters" minOgreVersion="1.9" ogreMaxVersion="2.6.4" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <environment>
+        <colourAmbient r="0.333333" g="0.333333" b="0.333333"/>
+        <colourBackground r="0" g="0" b="0"/>
+        <clipping near="0" far="2540"/>
+    </environment>
+    <nodes>
+        <node name="Room">
+            <position x="-5.75859" y="0.389821" z="0.0048524"/>
+            <scale x="2.43682" y="2.43682" z="2.43682"/>
+            <rotation qx="0" qy="0" qz="0" qw="1"/>
+            <entity name="Room" castShadows="true" receiveShadows="true" meshFile="Room.mesh">
+                <subentities>
+                    <subentity index="0" materialName="Material#54_OgreMax"/>
+                    <subentity index="1" materialName="Material#68_OgreMax"/>
+                    <subentity index="2" materialName="Material#70_OgreMax"/>
+                    <subentity index="3" materialName="Material#69_OgreMax"/>
+                    <subentity index="4" materialName="Material#71_OgreMax"/>
+                    <subentity index="5" materialName="Material#72_OgreMax"/>
+                    <subentity index="6" materialName="Material#74_OgreMax"/>
+                    <subentity index="7" materialName="Material#75_OgreMax"/>
+                    <subentity index="8" materialName="Material#76_OgreMax"/>
+                    <subentity index="9" materialName="Material#56_OgreMax"/>
+                    <subentity index="10" materialName="Material#57_OgreMax"/>
+                    <subentity index="11" materialName="Material#58_OgreMax"/>
+                    <subentity index="12" materialName="Material#64_OgreMax"/>
+                    <subentity index="13" materialName="Material#62_OgreMax"/>
+                    <subentity index="14" materialName="Material#61_OgreMax"/>
+                    <subentity index="15" materialName="Material#67_OgreMax"/>
+                    <subentity index="16" materialName="Material#63_OgreMax"/>
+                    <subentity index="17" materialName="Material#60_OgreMax"/>
+                    <subentity index="18" materialName="Material#66_OgreMax"/>
+                    <subentity index="19" materialName="Material#59_OgreMax"/>
+                    <subentity index="20" materialName="Material#65_OgreMax"/>
+                </subentities>
+            </entity>
+        </node>
+    </nodes>
+</scene>
